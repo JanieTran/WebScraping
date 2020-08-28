@@ -5,10 +5,9 @@ from usa_veterinarians.items import *
 
 class BusinessSpider(scrapy.Spider):
     name = 'business'
-    # start_urls = ['http://www.usa-veterinarians.com/']
-    start_urls = ['http://www.usa-veterinarians.com/in/tulsa-ok']
+    start_urls = ['http://www.usa-veterinarians.com/']
 
-    def parse_(self, response):
+    def parse(self, response):
         states = response.css('main > ul > li > a')
 
         for state in states:
@@ -45,19 +44,14 @@ class BusinessSpider(scrapy.Spider):
                 meta=meta
             )
 
-    def parse(self, response):
+    def parse_business_list(self, response):
         business_list = response.css('.card-heading a::attr(href)').getall()
 
         for business in business_list:
             yield response.follow(
                 business,
                 callback=self.parse_business,
-                # meta=response.meta
-                meta = {
-                    'state': 'Oklahoma',
-                    'county': 'Tulsa County',
-                    'city': 'Tulsa'
-                }
+                meta=response.meta
             )
 
     def parse_business(self, response):
