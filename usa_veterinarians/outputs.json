@@ -1,13 +1,539 @@
 [
-{"state": "Alabama", "county": "Winston County", "city": "Natural Bridge", "business_name": "North Alabama Cat & Bird Vet - Lindsay Bryant", "description": "A Complete Health Care & Surgical Facility for: Cats - Birds - Dogs - Exotics At North Alabama Cat and Bird Veterinary Clinic, our mission is to provide the finest animal health care available. We respect the closeness of the family pet bond, and it is our purpose to aid pet owners celebrate all kinds of this loving and caring relationship.", "nearest_cities": [{"Madison AL": "20.0 mi"}, {"Athens AL": "24.6 mi"}, {"Huntsville AL": "27.4 mi"}, {"Muscle Shoals AL": "46.9 mi"}, {"Pinson AL": "53.3 mi"}, {"Rainbow City AL": "60.5 mi"}, {"Birmingham AL": "64.4 mi"}, {"Pell City AL": "69.8 mi"}, {"Bessemer AL": "72.3 mi"}, {"Cropwell AL": "74.8 mi"}]},
-{"state": "Alabama", "county": "Winston County", "city": "Haleyville", "business_name": "Whitworth Animal Clinic Inc - Charles D Whitworth", "description": "We're a charter member of the Animal Emergency Clinic of North Alabama. We are a complete service facility delivering the best professional health care for your pet. The primary purpose of this practice, clinically speaking, is to supply the finest quality medical and surgical care to our patients and to supply the highest possible care to our customers.", "nearest_cities": [{"Huntsville AL": "9.5 mi"}, {"Athens AL": "14.6 mi"}, {"Hartselle AL": "20.0 mi"}, {"Muscle Shoals AL": "52.3 mi"}, {"Rainbow City AL": "65.3 mi"}, {"Pinson AL": "68.6 mi"}, {"Pell City AL": "81.3 mi"}, {"Birmingham AL": "81.4 mi"}, {"Cropwell AL": "86.6 mi"}, {"Anniston AL": "88.8 mi"}]},
-{"state": "Florida", "county": "Glades County", "city": "Palmdale", "business_name": "Indian Creek Pet Hospital", "description": "At Indian Creek Pet Hospital, we trust that your pet is special and deserves to be cared for with love and respect. We know how much you care about your pets.so we set our standards high. We are an accredited hospital of the American Animal Hospital Association.", "nearest_cities": [{"Cape Coral FL": "7.2 mi"}, {"Estero FL": "14.7 mi"}, {"Bonita Springs FL": "21.6 mi"}, {"Port Charlotte FL": "26.8 mi"}, {"Naples FL": "34.8 mi"}, {"North Port FL": "35.8 mi"}, {"Arcadia FL": "39.7 mi"}, {"Venice FL": "47.9 mi"}, {"Sarasota FL": "62.8 mi"}, {"Wauchula FL": "63.1 mi"}]},
-{"state": "Colorado", "county": "Yuma County", "city": "Yuma", "business_name": "Mile High Veterinary Hospital", "description": "Mile High Veterinary Hospital is dedicated to delivering the best quality veterinary care with the personalized attention that each owner and his or her pet should expect. Each patient is an personal with unique requirements. We at Mile High Veterinary Hospital aim to understand each pet and his or her owner so that the finest medical service and care is delivered.", "nearest_cities": [{"Denver CO": "8.1 mi"}, {"Englewood CO": "10.0 mi"}, {"Littleton CO": "12.7 mi"}, {"Westminster CO": "13.2 mi"}, {"Wheat Ridge CO": "13.3 mi"}, {"Arvada CO": "14.5 mi"}, {"Brighton CO": "17.7 mi"}, {"Broomfield CO": "18.9 mi"}, {"Golden CO": "20.7 mi"}, {"Lafayette CO": "23.3 mi"}]},
-{"state": "New Mexico", "county": "Otero County", "city": "Holloman Air Force Base", "business_name": "Veterinary Medical Clinic - C Edmund Staley", "description": "The Veterinary Medical Clinic has been delivering compassionate, affordable veterinary care to the Alamogordo and Holloman AFB community since 1958. We're dedicated to delivering the highest possible service and services, and our Web site is now available for you twenty-four hours a day and 7 days a week.", "nearest_cities": [{"Ruidoso NM": "34.2 mi"}, {"Santa Teresa NM": "57.6 mi"}, {"Roswell NM": "89.8 mi"}]},
-{"state": "New Mexico", "county": "Otero County", "city": "Holloman Air Force Base", "business_name": "Mesa Vista Animal Hospital", "description": "The mission of the NMVMA is to promote veterinary medicine and quality animal care through communication, fellowship, and professional growth of New Mexico veterinarians. The Other Family Doctor: 75 Years of Veterinary Medicine in New Mexico In 2006, the New Mexico Veterinary Medical Association celebrated seventy-five years of serving the veterinary profession in New Mexico.", "nearest_cities": [{"Belen NM": "9.7 mi"}, {"Albuquerque NM": "21.3 mi"}, {"Angel Fire NM": "42.7 mi"}, {"Santa Fe NM": "76.3 mi"}, {"Los Alamos NM": "79.8 mi"}]},
-{"state": "West Virginia", "county": "Wyoming County", "city": "Wyoming", "business_name": "Crissman G Jay DVM - Beverly Pike Veterinary Clinic", "description": "Our tiny animal clinic supplies a complete line of medical services for cats and dogs, and  offers health care for reptiles, rodents, birds, potbellied pigs, rabbits and more. Browse our site and if you have any further questions please feel free to contact our team for more information. The driving philosophy of the Beverly Pike Veterinary Clinic is prevention rather than cure.", "nearest_cities": [{"Fairmont WV": "41.8 mi"}, {"Morgantown WV": "49.0 mi"}, {"Wheeling WV": "90.9 mi"}]},
-{"state": "West Virginia", "county": "Wyoming County", "city": "Wyoming", "business_name": "Animal ER", "description": "Would you like to schedule an appointment? What is man without the beasts? At South Huntington Animal Hospital, we trust that the human-animal bond is special---you might even call it sacred. And they're part of our lives. For that reason, our mission is simple: To nurture and care for that bond between you and your companions. In short, we aim to supply expert care for the life you share.", "nearest_cities": [{"Charleston WV": "49.8 mi"}]},
-{"state": "West Virginia", "county": "Wyoming County", "city": "Wyoming", "business_name": "Tri-State Veterinary Hospital", "description": "Run, glide, or hop to Tri-State Veterinary Center! We've expanded our facilities and services to supply the finest care for your furry friends -- from dogs and cats to horses and bunnies and all animals in between! New features include surgical suites, expanded tiny animal waiting areas, 6 examination rooms and equine and huge animal veterinary care services.", "nearest_cities": [{"Ceredo WV": "5.9 mi"}, {"Charleston WV": "44.2 mi"}, {"Nimitz WV": "98.2 mi"}]},
-{"state": "West Virginia", "county": "Wyoming County", "city": "Wyoming", "business_name": "Asbury Mobile Veterinary Service", "description": "Asbury Mobile Veterinary Service is a fully stocked mobile veterinary service. We can administer most any treatments that do not require larger medical diagnostic eqipment. We can serve most common veterinary needs with our mobile diagnotic, imaging and surgical equipment. Have the vet come to YOU instead of puttingn your animal through the stress of travelling to the vet.", "nearest_cities": [{"Nimitz WV": "25.7 mi"}, {"Bluefield WV": "53.5 mi"}, {"Charleston WV": "67.5 mi"}, {"Elkins WV": "83.9 mi"}]},
-{"state": "West Virginia", "county": "Wyoming County", "city": "Wyoming", "business_name": "Phillips Animal Hospital", "description": "At Phillips Animal Hospital, our goal is pet health service and care. We always aim to supply our patients with the most knowledgeable and up-to-date care possible, while providing our customers the finest customer service available. We feel that customers will want to return to our practice, with that as our main aim.", "nearest_cities": [{"Ceredo WV": "49.8 mi"}, {"Nimitz WV": "62.3 mi"}, {"Bluefield WV": "77.1 mi"}]}
+  {
+    "business_name": "Kindness Animal Hospital",
+    "description": "Our services include: annual exams and vaccines, wellness care, spay and neuters, dental cleanings, and a full range of soft tissue surgeries including cruciate rupture repair surgery. We feature digital X-rays (including dental), in house lab and pharmacy, ultrasound, wellness plans, grooming and boarding facilities and a full line of food, flea and heart worm preventatives for your pet. We also offer multiple financing options for your pets care. Treat your pet with Kindness.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "website": "www.kindnessoftulsa.com",
+      "zip_code": "74133",
+      "address": "11035 S. Memorial Dr.",
+      "phone_number": "(918) 970-4300",
+      "fax": "(918) 970-4301"
+    },
+    "highlights": [
+      "Winner of the 2018 Tulsa People A-List Reader’s Choice Award"
+    ],
+    "associations": [
+      "American Association of Feline Practioners, Director of the Oklahoma Chapter of The Paw Project"
+    ],
+    "serviced_areas": [
+      "Tulsa, Bixby, Broken Arrow, Jenks, Glenpool, Sapulpa, Sand Springs, Catoosa, Coweta"
+    ],
+    "payment_options": [
+      "American Express, Debit Cards, Discover, Financing Available, MasterCard, PayPal, VISA, Care Credit, Scratch Pay"
+    ],
+    "hour_operation": {
+      "Monday": "07:30 AM ÷ 06:00 PM",
+      "Tuesday": "07:30 AM ÷ 06:00 PM",
+      "Wednesday": "07:30 AM ÷ 06:00 PM",
+      "Thursday": "07:30 AM ÷ 06:00 PM",
+      "Friday": "07:30 AM ÷ 06:00 PM",
+      "Saturday": "08:00 AM ÷ 12:00 PM",
+      "Sunday": "Closed"
+    },
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Amsh",
+    "description": "First Place Best of the Best from Oklahoma Magazine! Thank You Tulsa and NE Oklahoma for your vote of confidence with so many quality Veterinary practices in NE Oklahoma. We were recognized for our state-of-the-art facilities/equipment and national award winning hospital design.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "zip_code": "74133",
+      "address": "7140 South 69th E Avenue",
+      "phone_number": "(918) 492-2674"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Care Animal Hospital",
+    "description": "MISSION STATEMENT: Care Animal Hospital is committed to serving pet animals and their owners by delivering the highest quality of care possible. We recognize that your pet is an integral member of your family. Because your pet's nice health is a priority to our team, we'll keep you informed of the finest opportunities for prevention, diagnosis, and treatment of disease.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "website": "www.tulsacarevets.com",
+      "zip_code": "74133",
+      "address": "10016 South Mingo Rd",
+      "phone_number": "(918) 254-7122"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Valley Glen Veterinary Hospital",
+    "description": "Pets are special companions and friends. Be sure to take attention of them with professional veterinary care by Valley Glen Veterinary Hospital, PC. Located in Tulsa, Oklahoma, we are an animal hospital featuring quality veterinary care plus boarding services for cats and dogs. Now under new ownership, we are proud to provide a clean clinic with caring, friendly service for both you and your pets!",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "zip_code": "74146",
+      "address": "12440 East 31st Street",
+      "phone_number": "(918) 663-9200"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Jacox Animal Clinic",
+    "description": "At Jacox Animal Clinic, we know how much your pets mean to you. And because they're part of the family, your pets deserve the finest medical care available. We hold a unique track record in caring for pets just like your and that is why Jacox Animal Clinic is the right choice for quality veterinary services.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "zip_code": "74104",
+      "address": "2732 E Fifteenth Str",
+      "phone_number": "(918) 712-2750"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Johnson Robin",
+    "description": "We supply a wide spectrum of diagnostic procedures through in-house testing and the use of external laboratories. We  work closely with local practices when special diagnostic procedures are required. The facility includes a well-stocked pharmacy, in-hospital surgery suite, in-house x-ray capabilities, ultrasound, a closely supervised hospitalization area, and indoor boarding kennels with outdoor walking areas.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "website": "www.riverbrookpetvet.com",
+      "zip_code": "74105",
+      "address": "3750 South Peoria Avenue",
+      "phone_number": "(918) 748-4400"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Feline Specialties Veterinary",
+    "description": "Feline Specialties Veterinary Hospital is a cats only facility situated in Tulsa, Oklahoma. We provide a complete array of services for our feline friends. Our facility is situated at 9702 S. Riverside in Tulsa, Oklahoma. We are pleased to cover the Tulsa and Jenks Area. We supply numerous services to assist you care for your feline companions.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "website": "www.felinespecialties.com",
+      "zip_code": "74137",
+      "address": "9702 Riverside Parkway",
+      "phone_number": "(918) 299-8222"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "All Creatures Veterinary Hospital",
+    "description": "Our doctors and team are here to serve you and your pet's veterinary requirements, providing affectionate and conscientious care of the quality we would want our own pets to receive. We are a complete service veterinary hospital, treating cats and dogs, as well as exotics, such as ferrets, birds, snakes, reptiles, amphibians and fish.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "website": "www.allcreaturesvettulsa.com",
+      "zip_code": "74137",
+      "address": "8134 South Harvard Avenue",
+      "phone_number": "(918) 481-0440"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Horizon Animal Hospital",
+    "description": "We began with half the space we currently have now and had to have the kennel built for boarding. Over the years, our team has expanded to nine and our customer base to over 4,000 customers. We are  devoted to the welfare of the helpless animals in our community.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "zip_code": "74136",
+      "address": "6702 South Lewis Aven # D",
+      "phone_number": "(918) 493-5757"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Woodland West Animal Hospital - Mike Jones",
+    "description": "Your information is kept totally private! Woodland West Animal Hospital is building a new facility! Visit the hospital site for photos of our progress! We are an active and dedicated staff of Veterinarians, Registered Veterinary Technicians, Pet Care Technicians, and Veterinary Assistants.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "website": "www.wwpetcare.com",
+      "zip_code": "74132",
+      "address": "9380 South Un Avenu",
+      "phone_number": "(918) 299-5720"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "South Memorial Animal Hospital",
+    "description": "WELCOME South Memorial Animal Hospital is an accredited member of the American Animal Hospital Association AAHA since 1977. AAHA's standards cover nearly every kind of our hospital, including surgery, pharmacy, laboratory, exam facilities, pet health records, cleanliness, emergency services, dental and nursing care, diagnostic imaging, and anesthesiology.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "zip_code": "74145",
+      "address": "7924 East 55th Street",
+      "phone_number": "(918) 664-8690"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Cedarwood Veterinary Clinic - Robert W Poteet",
+    "description": "When it comes to caring for your pet, there's no such thing as too nice. We provide complete medical and dental services for your family pet. Our friendly team understands how important your pet is to you. Our doctors, Robert Poteet, DVM, Bill Gooldy, DVM, and Wendy Sales, DVM, all care dearly about your pet.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "website": "www.cedarwoodveterinary.com",
+      "zip_code": "74112",
+      "address": "1412 South Harvard Avn",
+      "phone_number": "(918) 749-6588"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Veterinary Associates - Suzanne Caruso",
+    "description": "Set up in 1973, Veterinary Associates animal hospital has become one of the most trusted veterinary hospitals in Oklahoma delivering quality care to pets in the Tulsa area for over 30 years. Our highly-trained and compassionate team understands that your pet is a cherished member of your family.",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "website": "www.veterinaryassociates.net",
+      "zip_code": "74133",
+      "address": "6925 South 69th E Avenu",
+      "phone_number": "(918) 492-4200"
+    },
+    "highlights": [
+      "N/A"
+    ],
+    "associations": [
+      "N/A"
+    ],
+    "serviced_areas": [
+      "N/A"
+    ],
+    "payment_options": [
+      "N/A"
+    ],
+    "hour_operation": {},
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  },
+  {
+    "business_name": "Animal Medical and Surgical Hospital",
+    "description": "Animal Medical and Surgical Hospital is a full service animal hospital.  We treat all small animals including dogs, cats and exotic pets (rabbits, reptiles, ferrets, birds, rats, guinea pigs, sugar gliders, wolves, foxes, tigers and more).  We provide dental services, surgical procedures, ultrasound, digital X-Ray, boarding, grooming, preventive care (vaccinations), heartworm prevention, flea and tick prevention and much more.  ",
+    "state": "Oklahoma",
+    "county": "Tulsa County",
+    "city": "Tulsa",
+    "contact": {
+      "website": "www.amshpetvet.com",
+      "person": "Dr. Cheryl Pfeffer",
+      "zip_code": "74133",
+      "address": "7140 S 69 East Avenue",
+      "phone_number": "(918) 492-2674"
+    },
+    "highlights": [
+      "Cats, Dogs and Exotic Pets Welcome",
+      "Grooming",
+      "Boarding",
+      "Pet Training"
+    ],
+    "associations": [
+      "OVMA",
+      "AVMA",
+      "TCVMA",
+      "AAV"
+    ],
+    "serviced_areas": [
+      "Tulsa area, Owasso, Sand Springs, Broken Arrow, Sapulpa, Bixby"
+    ],
+    "payment_options": [
+      "American Express, Debit Cards, Discover, MasterCard, Money Orders, PayPal, Personal Checks, Travelers Checks, VISA"
+    ],
+    "hour_operation": {
+      "Monday": "07:30 AM ÷ 07:00 PM",
+      "Tuesday": "07:30 AM ÷ 07:00 PM",
+      "Wednesday": "07:30 AM ÷ 06:00 PM",
+      "Thursday": "07:30 AM ÷ 06:00 PM",
+      "Friday": "07:30 AM ÷ 06:00 PM",
+      "Saturday": "08:00 AM ÷ 01:00 PM",
+      "Sunday": "Closed"
+    },
+    "nearest_cities": {
+      "Sand Springs OK": "8.5 mi",
+      "Sapulpa OK": "12.7 mi",
+      "Collinsville OK": "17.0 mi",
+      "Bixby OK": "17.6 mi",
+      "Bartlesville OK": "41.0 mi",
+      "Muskogee OK": "44.7 mi",
+      "Okemah OK": "51.9 mi",
+      "Edmond OK": "90.0 mi",
+      "Oklahoma City OK": "97.6 mi"
+    }
+  }
 ]

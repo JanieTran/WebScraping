@@ -12,6 +12,9 @@ BOT_NAME = 'usa_veterinarians'
 SPIDER_MODULES = ['usa_veterinarians.spiders']
 NEWSPIDER_MODULE = 'usa_veterinarians.spiders'
 
+# Unicode encoding string
+FEED_EXPORT_ENCODING = 'utf-8'
+
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'usa_veterinarians (+http://www.yourdomain.com)'

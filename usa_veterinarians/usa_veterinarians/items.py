@@ -1,6 +1,8 @@
 import scrapy
+import json
 from scrapy.item import Field
-from scrapy.loader.processors import TakeFirst, MapCompose
+from itemloaders.processors import TakeFirst
+from collections import OrderedDict
 
 
 class BusinessItem(scrapy.Item):
@@ -19,9 +21,25 @@ class BusinessItem(scrapy.Item):
     description = Field(
         output_processor=TakeFirst()
     )
-    nearest_cities = Field()
+    nearest_cities = Field(
+        output_processor=TakeFirst()
+    )
+    contact = Field(
+        output_processor=TakeFirst()
+    )
+    hour_operation = Field(
+        output_processor=TakeFirst()
+    )
     highlights = Field()
-    associatation = Field()
+    associations = Field()
     serviced_areas = Field()
-    contact = Field()
-    hour_operation = Field()
+    payment_options = Field()
+
+    def __init__(self, *args, **kwargs):
+        self._values = OrderedDict()
+        if args or kwargs:
+            for k, v in six.iteritems(dict(*args, **kwargs)):
+                self[k] = v
+
+    def __repr__(self):
+        return json.dumps(OrderedDict(self), ensure_ascii = False, indent=2)
