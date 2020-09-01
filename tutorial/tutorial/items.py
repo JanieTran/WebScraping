@@ -4,7 +4,7 @@
 # https://docs.scrapy.org/en/latest/topics/items.html
 
 from scrapy.item import Item, Field
-from scrapy.loader.processors import MapCompose, TakeFirst
+from itemloaders.processors import MapCompose, TakeFirst
 from datetime import datetime
 
 
